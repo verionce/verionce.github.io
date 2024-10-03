@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://verionce.github.io/sitemap.html.gz
+Sitemap: https://verionce.github.io/app/sitemap.html.gz
+Sitemap: https://verionce.github.io/assets/sitemap.html.gz
+Sitemap: https://verionce.github.io/css/sitemap.html.gz
+Sitemap: https://verionce.github.io/data/sitemap.html.gz
+Sitemap: https://verionce.github.io/includes/sitemap.html.gz
+Sitemap: https://verionce.github.io/item/sitemap.html.gz
+Sitemap: https://verionce.github.io/src/sitemap.html.gz
